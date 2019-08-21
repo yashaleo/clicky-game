@@ -1,0 +1,9 @@
+.bkgrdImage {
+  background: url('../public/assets/images/rainforest.jpg');
+  background-repeat: no-repeat;
+  height: 50vh;
+  min-height: 600px;
+  color: #fff;
+  position: relative;
+  width: 100%;
+}
